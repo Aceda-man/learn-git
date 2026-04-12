@@ -1,2 +1,3 @@
 Retrial of understanding git
 line 2 from test
+line 3: i now understand git sensitivity

@@ -2,4 +2,5 @@ Retrial of understanding git
 line 2 from test
 line 3: i now understand git sensitivity
 line 4: assignment to finally cover what i learnt
-line 5: commit changesline 6: Git = version control for everything
+line 5: commit changes
+line 6: Git = version control for everything

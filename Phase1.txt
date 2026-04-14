@@ -4,3 +4,4 @@ line 3: i now understand git sensitivity
 line 4: assignment to finally cover what i learnt
 line 5: commit changes
 line 6: Git = version control for everything
+Line 7: Branches keeps work safe

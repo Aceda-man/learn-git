@@ -5,3 +5,6 @@ line 4: assignment to finally cover what i learnt
 line 5: commit changes
 line 6: Git = time machine for code +  cntrl z for my project
 Line 7: Branches keeps work safe
+line 8: learning git stash
+line 9: not committed yet
+line 8: this will caise a conflict

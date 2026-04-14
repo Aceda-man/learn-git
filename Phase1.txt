@@ -8,3 +8,4 @@ Line 7: Branches keeps work safe
 line 8: learning git stash
 line 9: not committed yet
 line 8: this will caise a conflict
+line 9: bugfix branch work
